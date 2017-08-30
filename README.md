@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+# Adepeju Abiola
 
+> Consultant at the Hackett Group
 You can use the [editor on GitHub](https://github.com/adepejuabiola/bug-free-funicular/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
